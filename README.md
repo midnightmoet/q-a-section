@@ -10,3 +10,4 @@ Created a vanilla code piece.
 - GitHub - hosts repository that can be deployed to GitHub Pages
 - Javascript - used to create the logic controlling the application
 - [Font Awesome](https://fontawesome.com/) - used to add icons to the page
+- [CDNJS](https://cdnjs.com/) - used to provide links to icons
